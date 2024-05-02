@@ -164,13 +164,7 @@ niewielki i/ lub dane są mniej normalnie rozłożone.
 
     ## Asymptotyczny przedział ufności (95%): ( 2.626927 ,  2.913073 )
 
-**Zadanie 5(dodatkowe)** Następnie:  
-1. Przedstaw otrzymane wartości $\hat{a}$ na histogramie.  
-2. Oblicz przedział ufności dla próby numer 1 korzystając ze wzoru
-$$(\max(X_n), \frac{\max(X_n)}{\alpha^{1/n}})$$.  
-3. Oblicz przedział ufności dla każdej próby i sprawdź, dla ilu prób
-przedział zawiera prawdziwą wartość parametru $a$.
-
+**Zadanie 5(dodatkowe)**  
 Wylosujemy 1000 prób po 10 obserwacji z rozkładu jednostajnego na
 przedziale $[0, a]$ dla wybranej wartości parametru $a$.
 
